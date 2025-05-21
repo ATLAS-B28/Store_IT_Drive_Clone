@@ -4,7 +4,7 @@ Developed StoreIT Drive Clone, a full-stack file storage app (Next.js 15, React.
 
 ## Project Presentation - 
 ### Video - 
-[![Presentation](https://youtu.be/dnMGUTnXsjg)
+[![Watch the video](https://github.com/ATLAS-B28/Store_IT_Drive_Clone/blob/main/Thumbnail%20StoreIt.png)](https://youtu.be/dnMGUTnXsjg)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
