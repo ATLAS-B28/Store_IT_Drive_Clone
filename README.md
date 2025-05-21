@@ -1,3 +1,11 @@
+# StoreIT - Google Drive Clone Porject - 
+## Project Introduction - 
+Developed StoreIT Drive Clone, a full-stack file storage app (Next.js 15, React.js 19, Appwrite, TypeScript), featuring multi-account login, diverse file uploads, categorization, search, and UI/UX design with Tailwind CSS and Shadcn.
+
+## Project Presentation - 
+### Video - 
+[![Presentation](https://youtu.be/dnMGUTnXsjg)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
